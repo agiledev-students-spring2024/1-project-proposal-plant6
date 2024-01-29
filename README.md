@@ -1,2 +1,17 @@
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Project Title:
+NYU Roommate Finder
+
+# What and Why?
+In my experience, finding a roommate early on at NYU was difficult, as New York has a competitive and cutthroat apartment application process. Even if you found a potential candidate by randomly asking around, there are still a lot of key follow-up questions that need to be asked to determine whether it is a match before you start apartment-hunting. I think there is a need for some kind of centralized system where students can find other students looking for roommates, and also be able to view most of the key information immediately (such as budget and location) to know if they are compatible. This can be achieved by creating a forum website, where users would be able to make a post detailing their preferences, and other users would be able to view these posts and respond to them. The users could filter these posts based on their apartment preferences. Moreover, a private user-to-user direct-messaging system could be implemented for sharing information users are not comfortable sharing with the public.
+
+# For whom?
+The system is specifically for NYU students actively looking for roommates. We assume the students going in have a clear idea of what their apartment preferences are like, and want a quick way to find suitable roommates so they can begin the apartment application process without having to ask around.
+
+# How?
+User makes a username/password and creates their roommate profile. They enter basic information about themself relevant to their potential roommates such as their age, do they smoke, do they enjoy loud music, do they wake up early, etc. They may also enter less-relevant things like their goals and interests if so desired.
+User will then be able to create a forum post explaining their situation and what kind of roommates they are looking for. For some key details like budget range, the forum posts will be tagged so other users can filter and search the posts by their preferences. If the user has already signed a lease but is looking to fill empty bedrooms, they can also create a post detailing information about the predetermined living space.
+If the user does not feel like creating their own post, they can simply view other users’ posts and respond to them. For example, they might ask “Hi, our preferences match, but are you willing to commute from New Jersey?” to which operator of the post can publicly reply, answering the question for anyone who may have it. The user can also direct-message the forum operator if they don’t want other people seeing the conversation.
+The forum post operator is able to update the post with the number of spaces that are yet to be filled. Once all spaces are filled, the post can be marked as inactive.
+
+# Scope
+The core of this project, creating a forum/message board website with a built-in direct messaging system, is quite straightforward and I don’t think it would be too difficult to create over the course of the semester with 4-6 programmers. However, there are a number of optional additional features for improving the user experience that add to its complexity. These include a user verification system to limit scam activity, a map to view active leases with bedrooms to fill, and an opt-in notification system where users can be notified (through SMS, email, etc) about new forum posts matching their criteria or responses to their own post. We will be highly receptive to user feedback and add additional features to facilitate their needs if time permits.
