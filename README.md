@@ -1,5 +1,4 @@
-# Project Title:
-NYU Roommate Finder
+# Project Title: NYU Roommate Finder
 
 # What and Why?
 In my experience, finding a roommate early on at NYU was difficult, as New York has a competitive and cutthroat apartment application process. Even if you found a potential candidate by randomly asking around, there are still a lot of key follow-up questions that need to be asked to determine whether it is a match before you start apartment-hunting. I think there is a need for some kind of centralized system where students can find other students looking for roommates, and also be able to view most of the key information immediately (such as budget and location) to know if they are compatible. This can be achieved by creating a forum website, where users would be able to make a post detailing their preferences, and other users would be able to view these posts and respond to them. The users could filter these posts based on their apartment preferences. Moreover, a private user-to-user direct-messaging system could be implemented for sharing information users are not comfortable sharing with the public.
